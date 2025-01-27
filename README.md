@@ -1,1 +1,2 @@
-# tuesday.ipynb
+# Import libraries
+Cleaning empty cells
